@@ -7,15 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>Deep Linking</code>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <a className="App-link" href="https://dev.avenue8.com/newListing" target="_blank" rel="noopener noreferrer" >
+          New Listing
         </a>
       </header>
     </div>
