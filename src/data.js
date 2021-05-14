@@ -1,6 +1,6 @@
 export default [
   {
-    name:'New Listing',
+    name:'Client Listing',
     link:'https://dev.avenue8.com/clientlist?cntrll=ClientsRouter'
   },
   {
