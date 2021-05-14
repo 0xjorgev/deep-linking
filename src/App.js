@@ -1,18 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState, useEffect } from "react";
+import data from './data'
+
+const LinkComponent = ({link, name}) => {
+  return (
+      <a className="App-link" href={link} target="_blank" rel="noopener noreferrer" >
+        {name}
+      </a>
+  )
+}
 
 function App() {
+  useEffect(() => {
+    console.log('data:', data)
+  })
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          <code>Deep Linking</code>
-        </p>
-        <a className="App-link" href="https://dev.avenue8.com/newListing" target="_blank" rel="noopener noreferrer" >
-          New Listing
-        </a>
+        <p>Deep Linking</p>
       </header>
+        {data.map( (item, key) => {
+            return (<div key={key} className="custom">
+                <LinkComponent link={item.link} name={item.name} />
+             </div>)
+          })}
     </div>
   );
 }
