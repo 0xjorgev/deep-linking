@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Deep Linking</p>
+        <p>Deep Linking List</p>
       </header>
         {data.map( (item, key) => {
             return (<div key={key} className="custom">

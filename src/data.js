@@ -4,6 +4,10 @@ export default [
     link:'https://dev.avenue8.com/clientlist?cntrll=ClientsRouter'
   },
   {
+    name:'Active Listings',
+    link:'https://dev.avenue8.com/listing?cntrll=ActiveListingRouter'
+  },
+  {
     name:'Content Library',
     link:'https://dev.avenue8.com/contentLibrary'
   },
