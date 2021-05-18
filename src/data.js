@@ -8,6 +8,10 @@ export default [
     link:'https://dev.avenue8.com/?cntrll=AF112233'
   },
   {
+    name:'Client Details',
+    link:'https://dev.avenue8.com/?cntrll=AF112233?id=109'
+  },
+  {
     name:'Active Listings',
     link:'https://dev.avenue8.com/listing?cntrll=ActiveListingRouter'
   },
