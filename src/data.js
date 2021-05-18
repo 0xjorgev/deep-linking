@@ -9,7 +9,7 @@ export default [
   },
   {
     name:'Client Details',
-    link:'https://dev.avenue8.com/?cntrll=AF112233?id=109'
+    link:'https://dev.avenue8.com/?cntrll=AF112233&id=109'
   },
   {
     name:'Active Listings',
