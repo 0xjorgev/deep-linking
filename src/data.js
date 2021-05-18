@@ -1,7 +1,7 @@
 export default [
   {
     name:'Client Listing',
-    link:'https://dev.avenue8.com/clientlist?cntrll=ClientsRouter'
+    link:'https://dev.avenue8.com/?cntrll=ClientsRouter'
   },
   {
     name:'Active Listings',
