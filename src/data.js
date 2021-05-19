@@ -16,23 +16,15 @@ export default [
     link:'https://dev.avenue8.com/?cntrll=ClientDetailRouter&id=109'
   },
   {
+    name:'Client Details (wrong controller)',
+    link:'https://dev.avenue8.com/?cntrll=ShoesController&id=109'
+  },
+  {
     name:'Active Listings',
     link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
   },
   {
     name:'Listing Details by ID',
-    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
-  },
-  {
-    name:'Listing Detailsg by Address',
-    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
-  },
-  {
-    name:'Incorrect Listing Details by Address',
-    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
-  },
-  {
-    name:'Content Library',
-    link:'https://dev.avenue8.com/?cntrll=ContentLibrary'
+    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter&id=152'
   }
 ]
