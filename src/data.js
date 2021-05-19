@@ -8,23 +8,31 @@ export default [
     link:'https://dev.avenue8.com/?cntrll=AF112233'
   },
   {
-    name:'Client Details',
+    name:'Client Details (Correct Client)',
     link:'https://dev.avenue8.com/?cntrll=ClientDetailRouter&id=2111'
   },
   {
+    name:'Client Details (Incorrect Client)',
+    link:'https://dev.avenue8.com/?cntrll=ClientDetailRouter&id=109'
+  },
+  {
     name:'Active Listings',
-    link:'https://dev.avenue8.com/listing?cntrll=ActiveListingRouter'
+    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
+  },
+  {
+    name:'Listing Details by ID',
+    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
+  },
+  {
+    name:'Listing Detailsg by Address',
+    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
+  },
+  {
+    name:'Incorrect Listing Details by Address',
+    link:'https://dev.avenue8.com/?cntrll=ActiveListingRouter'
   },
   {
     name:'Content Library',
-    link:'https://dev.avenue8.com/contentLibrary'
-  },
-  {
-    name:'Signage',
-    link:'https://dev.avenue8.com/signage'
-  },
-  {
-    name:'Marketing Me',
-    link:'https://dev.avenue8.com/marketingMe'
+    link:'https://dev.avenue8.com/?cntrll=ContentLibrary'
   }
 ]
