@@ -26,5 +26,9 @@ export default [
   {
     name:'Listing Details by ID',
     link:'https://dev.avenue8.com/?cntrll=ActiveListingDetailRouter&id=138'
+  },
+  {
+    name:'Content Library',
+    link:'https://dev.avenue8.com/?cntrll=ContentLibraryRouter'
   }
 ]
