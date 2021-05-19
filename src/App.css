@@ -29,6 +29,7 @@
 
 .custom{
   padding: 10px;
+  align-items: baseline;
 }
 
 @keyframes App-logo-spin {
