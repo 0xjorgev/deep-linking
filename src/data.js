@@ -30,5 +30,13 @@ export default [
   {
     name:'Content Library',
     link:'https://dev.avenue8.com/?cntrll=ContentLibraryRouter'
+  },
+  {
+    name:'CMA with Address',
+    link:'https://dev.avenue8.com/?cntrll=CMARouter&listingBeds=2&listingLivingSpace=2000&listingAddressLine2=&listingCity=San%20Francisco&clientEmail=jorgevmendoza+testingavenue8email@gmail.com&listingAddressLine1=2333%20Buchanan%20Street&clientLastname=felipe&clientFirstname=king&listingBaths=2.0&listingState=CA&clientId=167&listingZip=94115'
+  },
+  {
+    name:'CMA with Client',
+    link:'https://dev.avenue8.com/?cntrll=ContentLibraryRouter'
   }
 ]
