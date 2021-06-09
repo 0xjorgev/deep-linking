@@ -42,5 +42,9 @@ export default [
   {
     name:'Visual Marketing with Listing',
     link:'https://dev.avenue8.com/?cntrll=VisualMarketingActiveListingRouter&listingId=138'
+  },
+  {
+    name:'Registration with data',
+    link:'https://dev.avenue8.com/?cntrll=RegisterRouter&firstname=Clark&lastname=Kent&email=superman@avenue8.com'
   }
 ]
