@@ -45,6 +45,6 @@ export default [
   },
   {
     name:'Registration with data',
-    link:'https://dev.avenue8.com/?cntrll=RegisterRouter&firstname=Clark&lastname=Kent&email=superman@avenue8.com'
+    link:'https://dev.avenue8.com/?cntrll=RegisterRouter&firstname=Clark&lastname=Kent&email=superman@avenue8.com&phone=405343334'
   }
 ]
