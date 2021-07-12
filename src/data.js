@@ -62,4 +62,15 @@ export default [
     name:"Michele's failing case (Listing register)",
     link:'https://staging.link.avenue8.com/?c=AV8RL'
   }
+  ,
+  {
+    name:"Michele's failing case (Client register)",
+    link:'https://staging.link.avenue8.com/?c=AV8CL'
+  }
+
+  ,
+  {
+    name:"Jorge's (Edit Client)",
+    link:'https://staging.link.avenue8.com/?c=AV8CE&id=2111'
+  }
 ]
