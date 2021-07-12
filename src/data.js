@@ -59,7 +59,7 @@ export default [
   }
   ,
   {
-    name:"Michele's failing case",
+    name:"Michele's failing case (Listing register)",
     link:'https://staging.link.avenue8.com/?c=AV8RL'
   }
 ]
