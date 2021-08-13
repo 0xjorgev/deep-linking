@@ -86,7 +86,7 @@ export default [
   {
     name:"Michele's (Reported wrong message) 3",
     link:'https://staging.link.avenue8.com/?c=AV8LE&id=138'
-  }
+  },
   {
     name:"CONTENT LIBRARY",
     link:'https://link.avenue8.com/?c=AV8CG'
