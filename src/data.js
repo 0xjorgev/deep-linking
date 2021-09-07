@@ -90,6 +90,10 @@ export default [
   {
     name:"CONTENT LIBRARY",
     link:'https://link.avenue8.com/?c=AV8CG'
+  },
+  {
+    name:"BILLING",
+    link:'https://link.avenue8.com/?c=AV8BLL'
   }
 
 
